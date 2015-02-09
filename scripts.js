@@ -7,7 +7,7 @@
 			//alert("Hello, World!"); 
 		}
 		function addBorder() {
-			document.getElementById('wasted').style.border="solid 5px red"
+			document.getElementById('wasted').style.border="solid 50px red"
 		}
 		function removeBorder() {
 			document.getElementById('wasted').style.border="0px"
